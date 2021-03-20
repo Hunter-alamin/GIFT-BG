@@ -27,6 +27,6 @@ python2 giftfromhunter.py
 
 # USERNAME & PASSWORDS 
 
-`username :  GIFTFROMHUNTER`
+`username` :  `GIFTFROMHUNTER`
 
-`PASSWORD : MOHINBG`
+`PASSWORD` : `MOHINBG`
